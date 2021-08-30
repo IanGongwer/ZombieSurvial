@@ -1,0 +1,6 @@
+name: Zombie Survial
+main: me.centy.uhc.main.Main
+author: Centy
+version: 1.0
+commands:
+  start:
